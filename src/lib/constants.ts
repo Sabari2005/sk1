@@ -8,8 +8,8 @@ export const SITE_CONFIG = {
 };
 
 export const IMAGES = {
-    hero: "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?q=80&w=1920&auto=format&fit=crop", // Grand Hotel Facade/Lobby vibe
-    room_deluxe: "https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=1000&auto=format&fit=crop",
+  hero: "/hero.png", // Local override
+  room_deluxe: "https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=1000&auto=format&fit=crop",
     room_suite: "https://images.unsplash.com/photo-1590490360182-c33d57733427?q=80&w=1000&auto=format&fit=crop",
     room_family: "https://images.unsplash.com/photo-1566665762606-3685dac998bf?q=80&w=1000&auto=format&fit=crop",
     amenity_wifi: "https://images.unsplash.com/photo-1635329863263-441434c4f34d?q=80&w=600",
